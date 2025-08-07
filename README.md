@@ -1,7 +1,7 @@
 # 🛡️ Payment Fraud Prediction
 
 This project is part of my internship case study focused on building a **real-time fraud detection system** using a dataset of over **6 million transactions**. The objective is to detect fraudulent transactions with high accuracy and efficiency, backed by strong **EDA**, **feature engineering**, and **machine learning** pipelines.
-
+🔗 Live App: [Click to Try It](https://payment-fraud-prediction.streamlit.app/)
 ---
 
 ## 📊 Problem Statement
@@ -154,4 +154,5 @@ You can now:
 git add README.md
 git commit -m "Added professional README"
 git push origin main
+
 
