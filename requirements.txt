@@ -6,4 +6,7 @@ seaborn
 requests
 xgboost
 lightgbm
-
+plotly
+streamlit
+jupyterlab
+notebook
