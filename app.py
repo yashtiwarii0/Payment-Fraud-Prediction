@@ -245,7 +245,10 @@ def create_feature_importance_chart(feature_importance):
                 color=importance,
                 colorscale='Viridis',
                 showscale=True,
-                colorbar=dict(title="Importance", titlefont=dict(color='white'), tickfont=dict(color='white'))
+                colorbar=dict(
+                    title=dict(text="Importance", font=dict(color='white')),  # ✅ FIXED HERE
+                    tickfont=dict(color='white')
+                )
             )
         )
     ])
@@ -262,6 +265,7 @@ def create_feature_importance_chart(feature_importance):
     )
     
     return fig
+
 
 # Create transaction analysis chart
 def create_transaction_analysis():
