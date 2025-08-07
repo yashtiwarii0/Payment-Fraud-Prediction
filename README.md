@@ -136,7 +136,6 @@ streamlit run app.py
 
 Yash Tiwari
 Data Science Intern | BTech CSE
-📫 LinkedIn | 🌐 Portfolio
 ⭐️ Show Your Support
 
 If you like this project, consider giving it a ⭐️ on GitHub!
@@ -155,3 +154,4 @@ You can now:
 git add README.md
 git commit -m "Added professional README"
 git push origin main
+
