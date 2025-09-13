@@ -154,6 +154,8 @@ You can now:
 git add README.md
 git commit -m "Added professional README"
 git push origin main
+```
+
 
 # 💫 About Me:
 👋 Hey there, I’m Yash Tiwari<br><br>🚀 AI & Machine Learning Enthusiast | Data-Driven Problem Solver | Aspiring AI Engineer<br><br>I love building intelligent systems that transform raw data into meaningful insights and impactful solutions. With a strong foundation in Machine Learning, Deep Learning, and Data Science, I aim to bridge the gap between business strategy and cutting-edge technology.<br><br>🧑‍💻 About Me<br><br>🎓 Pursuing B.Tech in Computer Science & Business Systems (KIT’s College of Engineering, GPA 8.1).<br><br>💼 Experience as Business Development Manager, blending communication and problem-solving with technical innovation.<br><br>🔬 Hands-on with Flask, TensorFlow, PyTorch, Hugging Face, MLFlow, SQL, Docker, and NLP tools like NLTK.<br><br>📊 Passionate about deploying end-to-end ML systems, from data preprocessing → model building → deployment.<br><br>🏗️ Highlight Projects<br><br>📘 Student Performance Predictor
@@ -173,4 +175,5 @@ git push origin main
 [![](https://visitcount.itsvg.in/api?id=yashtiwarii0&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
